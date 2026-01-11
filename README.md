@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work on Mchine learning & Python and Django based projects including fraud detection,automation and data analysis dashboards<br>I'm looking to collaborate on open-source projects in Python , Machine Learning, Data Science and Web Development<br>I'm looking for help with Data Analyzation and Scientist, advanced ML model optimization , real-world datasets and scalable backend systems<br>I'm currently learning Deep Learning, React, Node.js, Java Script<br>Ask me about - Python, Machine Learning, APIs, Data Analysis, Resume-ready projects<br>Fun fact is I enjoy turning complex problem into simple working solutions
+I'm currently work on Machine learning & Python and Django based projects including fraud detection,automation and data analysis dashboards<br>I'm looking to collaborate on open-source projects in Python , Machine Learning, Data Science and Web Development<br>I'm looking for help with Data Analyzation and Scientist, advanced ML model optimization , real-world datasets and scalable backend systems<br>I'm currently learning Deep Learning, React, Node.js, Java Script<br>Ask me about - Python, Machine Learning, APIs, Data Analysis, Resume-ready projects<br>Fun fact is I enjoy turning complex problem into simple working solutions
 
 
 ## 🌐 Socials:
