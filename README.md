@@ -1,7 +1,9 @@
 Hello, I'm Shrutika 👋
+
 I'm currently work on Machine learning & Python and Django based projects including fraud detection,automation and data analysis dashboards<br>I'm looking to collaborate on open-source projects in Python , Machine Learning, Data Science and Web Development<br>I'm looking for help with Data Analyzation and Scientist, advanced ML model optimization , real-world datasets and scalable backend systems<br>I'm currently learning Deep Learning, React, Node.js, Java Script<br>Ask me about - Python, Machine Learning, APIs, Data Analysis, Resume-ready projects<br>Fun fact is I enjoy turning complex problem into simple working solutions
 
 Summary:
+
 📊 Strong foundation in Data Science, with hands-on experience in data cleaning, EDA, data visualization, ETL pipelines, predictive analytics, and machine learning, applied through internships and academic projects.
 🐍 Proficient in Python for data analytics, automation, backend development, and REST API creation, using Pandas, Django REST Framework, FastAPI, with hands-on experience in PostgreSQL and MongoDB, along with API testing using Postman and API documentation using Swagger/OpenAPI.
 🌐 Experience with Web Technologies including HTML, CSS, JavaScript, and React, enabling the development of responsive front-end interfaces and seamless integration with data-driven backend systems.
