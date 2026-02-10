@@ -5,8 +5,11 @@ I'm currently work on Machine learning & Python and Django based projects includ
 Summary:
 
 📊 Strong foundation in Data Science, with hands-on experience in data cleaning, EDA, data visualization, ETL pipelines, predictive analytics, and machine learning, applied through internships and academic projects.
+
 🐍 Proficient in Python for data analytics, automation, backend development, and REST API creation, using Pandas, Django REST Framework, FastAPI, with hands-on experience in PostgreSQL and MongoDB, along with API testing using Postman and API documentation using Swagger/OpenAPI.
+
 🌐 Experience with Web Technologies including HTML, CSS, JavaScript, and React, enabling the development of responsive front-end interfaces and seamless integration with data-driven backend systems.
+
 🧠 Actively exploring Artificial Intelligence, Machine Learning, NLP, Deep Learning, and Time Series Forecasting, with project experience in fraud detection, intelligent chatbots, and financial forecasting.
 
 ## 🌐 Socials:
