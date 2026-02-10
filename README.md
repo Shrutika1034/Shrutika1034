@@ -8,7 +8,7 @@ Summary:
 🧠 Actively exploring Artificial Intelligence, Machine Learning, NLP, Deep Learning, and Time Series Forecasting, with project experience in fraud detection, intelligent chatbots, and financial forecasting.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutika-hosakalle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutikahosakalle@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutika-hosakalle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](shrutikahosakalle@gmail.com) 
 
 LinkedIn: Shrutika Suresh Hosakalle(https://www.linkedin.com/in/shrutika-hosakalle)
 (Connect with me on LinkedIn)
